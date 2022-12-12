@@ -122,6 +122,3 @@ public class AccessSpeedLimitTest {
 }
 ~~~
 
-#技术交流:
-QQ: 4115291 
-Mail: sunyujia.d@gmail.com
